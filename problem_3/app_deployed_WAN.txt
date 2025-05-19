@@ -1,0 +1,4 @@
+
+
+
+http://k8s-gogame-godateti-6807925dcc-1540126137.us-east-1.elb.amazonaws.com/
